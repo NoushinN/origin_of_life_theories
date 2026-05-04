@@ -1,0 +1,47 @@
+# Clay and Mineral Template Hypotheses
+
+## Core Idea
+
+This theory proposes a distinct mechanistic route to early prebiotic organization [@ferris2006].
+
+## Historical Context
+
+This framework emerged as an attempt to solve a specific weakness in earlier origin-of-life models.
+
+## Mechanistic Basis
+
+Its central mechanism is summarized in Figure \@ref(fig:clay).
+
+<div class="figure">
+<img src="figures/08_clay_mineral_template.png" alt="Conceptual schematic for Clay and Mineral Template Hypotheses." width="100%" />
+<p class="caption">(\#fig:clay)Conceptual schematic for Clay and Mineral Template Hypotheses.</p>
+</div>
+
+The figure highlights the core physical mechanism emphasized by this theory.
+
+## What the Theory Explains Well
+
+Strong for spatial organization, weaker for autonomy.
+
+## What Makes It Plausible
+
+Experimental and conceptual work supports the plausibility of the core mechanism.
+
+## Key Experimental / Observational Support
+
+Modern experimental work provides partial support for the mechanism [@ferris2006].
+
+## Major Gaps and Critiques
+
+The principal gap is that this theory explains one major transition well, but not the full origin sequence.
+
+## Current Scientific Standing
+
+This theory remains influential as part of hybrid origin-of-life models and is rarely treated as a complete standalone explanation.
+
+| Dimension | Assessment |
+|---|---|
+| Strength | Strong in its primary domain |
+| Plausibility | Moderate |
+| Main Gap | Incomplete integration |
+| Current Standing | Influential but partial |

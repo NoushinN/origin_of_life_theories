@@ -1,0 +1,19 @@
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files:
+  html:
+    - index.Rmd
+    - 01-introduction.Rmd
+    - 02-primordial-soup.Rmd
+    - 03-rna-world.Rmd
+    - 04-metabolism-first.Rmd
+    - 05-lipid-world.Rmd
+    - 06-warm-little-pond.Rmd
+    - 07-clay-mineral-template.Rmd
+    - 08-protein-first.Rmd
+    - 09-panspermia.Rmd
+    - 10-comparative-synthesis.Rmd
+    - 11-research-agenda.Rmd
+    - 12-references.Rmd

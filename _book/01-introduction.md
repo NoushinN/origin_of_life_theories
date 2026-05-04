@@ -1,0 +1,23 @@
+# Introduction
+
+## Methodological Approach
+
+This book evaluates each theory using a consistent analytical framework: explanatory scope, mechanistic plausibility, empirical support, unresolved gaps, and integrative potential. The goal is not to identify a single winning theory, but to assess which mechanisms are plausible, testable, and potentially compatible within broader hybrid models.
+
+Figure \@ref(fig:four-hurdles) defines the four minimum hurdles any complete origin-of-life theory must overcome.
+
+<div class="figure">
+<img src="figures/02_four_hurdles_abiogenesis.png" alt="Four major hurdles that any complete origin-of-life theory must address." width="100%" />
+<p class="caption">(\#fig:four-hurdles)Four major hurdles that any complete origin-of-life theory must address.</p>
+</div>
+
+These four hurdles provide the evaluative structure used across all subsequent chapters.
+
+Figure \@ref(fig:pathway-timeline) situates major theories within a broader transition from geochemistry to Darwinian evolution.
+
+<div class="figure">
+<img src="figures/03_timeline_origin_pathways.png" alt="Simplified timeline showing where major origin-of-life theories may fit within a broader transition from geochemistry to biological evolution." width="100%" />
+<p class="caption">(\#fig:pathway-timeline)Simplified timeline showing where major origin-of-life theories may fit within a broader transition from geochemistry to biological evolution.</p>
+</div>
+
+This staged view motivates the central comparative approach of the book: multiple theories may be sequentially compatible rather than mutually exclusive.

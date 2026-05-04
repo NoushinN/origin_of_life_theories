@@ -1,0 +1,17 @@
+# Comparative Synthesis
+
+Figure \@ref(fig:comparative-matrix) compares explanatory strengths and weaknesses across the major theories.
+
+```{r comparative-matrix, echo=FALSE, out.width='100%', fig.cap='Comparative matrix of major theories across key origin-of-life problem areas.'}
+knitr::include_graphics("figures/11_comparative_theory_matrix.png")
+```
+
+Figure \@ref(fig:evidence-scope) compares empirical support and explanatory scope.
+
+```{r evidence-scope, echo=FALSE, out.width='85%', fig.cap='Conceptual comparison of relative empirical support and explanatory scope among major origin-of-life theories.'}
+knitr::include_graphics("figures/12_evidence_vs_scope_matrix.png")
+```
+
+## Limitations of Comparative Framing
+
+These figures are conceptual rather than strictly quantitative. Their rankings are heuristic and intended to support structured comparison rather than definitive scoring. Empirical support varies substantially by subdomain, and the figures necessarily simplify active scientific debates.
