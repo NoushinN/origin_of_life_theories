@@ -43,7 +43,7 @@ The primordial soup framework proposes that simple atmospheric and geochemical c
 
 These reactions may have generated amino acids, nucleobases, lipids, sugars, and other biologically relevant organic compounds. Subsequent concentration processes, evaporation cycles, mineral interactions, or localized environmental conditions may then have increased chemical complexity further.
 
-Figure \@ref(fig:primordial-soup-pathway) summarizes the simplified chemical progression proposed by the primordial soup model.
+Figure \@ref(fig:primordial-soup-pathway-fig) summarizes the simplified chemical progression proposed by the primordial soup model.
 
 ```{r primordial-soup-pathway-fig, echo=FALSE, fig.align='center', out.width='100%', fig.cap='Conceptual mechanism of the primordial soup model.'}
 knitr::include_graphics("figures/04_primordial_soup_pathway.png")

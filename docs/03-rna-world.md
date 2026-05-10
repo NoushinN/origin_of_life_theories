@@ -38,7 +38,7 @@ RNA is proposed to have supported early life-like systems through four related f
 - Supporting copying or template-directed replication
 - Allowing variation and selection among molecular populations
 
-Figure \@ref(fig:rna-world-mechanism) summarizes the mechanistic logic of the RNA World hypothesis.
+Figure \@ref(fig:rna-world-mechanism-fig) summarizes the mechanistic logic of the RNA World hypothesis.
 
 <div class="figure" style="text-align: center">
 <img src="figures/04_rna_world_mechanism.png" alt="Conceptual mechanism of the RNA World hypothesis." width="100%" />
