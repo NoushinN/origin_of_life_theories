@@ -1,4 +1,13 @@
 book_filename: "origin-of-life-theories"
+output_dir: "docs"
+
+delete_merged_file: true
+new_session: true
+
+language:
+  ui:
+    chapter_name: "Chapter "
+
 rmd_files:
   - "index.Rmd"
   - "01-introduction.Rmd"
@@ -13,8 +22,3 @@ rmd_files:
   - "10-comparative-synthesis.Rmd"
   - "11-research-agenda.Rmd"
   - "12-references.Rmd"
-delete_merged_file: true
-new_session: true
-language:
-  ui:
-    chapter_name: "Chapter "
