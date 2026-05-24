@@ -1,9 +1,10 @@
 ---
 title: "From Abiotic Chemistry to Protocells: A Comparative Review of Origin-of-Life Theories"
 author: "Noushin Nabavi"
-date: "2026-05-10"
+date: "2026-05-24"
 site: bookdown::bookdown_site
 documentclass: book
+classoption: oneside
 bibliography: references.bib
 biblio-style: apalike
 link-citations: yes
