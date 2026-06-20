@@ -9,8 +9,10 @@ bibliography: references.bib
 biblio-style: apalike
 link-citations: yes
 ---
+<a href="https://doi.org/10.5281/zenodo.20755200">
+  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20755200.svg" alt="DOI">
+</a>
 
-DOI: \url{https://doi.org/10.5281/zenodo.20755200}
 # Preface {-}
 
 The origin of life remains one of the most profound and challenging unanswered questions in modern science. Despite decades of research across chemistry, biology, geology, and planetary science, no single theory has fully explained how non-living matter transitioned into the first living systems.
