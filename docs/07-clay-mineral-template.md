@@ -67,10 +67,14 @@ Certain clay minerals possess layered structures and charged surfaces that can a
 
 Figure \@ref(fig:clay-mineral-overview) summarizes the conceptual mechanism proposed by clay and mineral template hypotheses.
 
-<div class="figure" style="text-align: center">
-<img src="figures/08_clay_mineral_template.png" alt="Conceptual mechanism of clay and mineral template hypotheses." width="100%" />
-<p class="caption">(\#fig:clay-mineral-overview)Conceptual mechanism of clay and mineral template hypotheses.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{figures/08_clay_mineral_template} 
+
+}
+
+\caption{Conceptual mechanism of clay and mineral template hypotheses.}(\#fig:clay-mineral-overview)
+\end{figure}
 
 The figure illustrates how mineral surfaces may have concentrated molecules, promoted polymerization, and supported increasingly organized prebiotic chemistry.
 

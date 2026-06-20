@@ -41,10 +41,9 @@ Protein-first theories emphasize the catalytic potential of short peptides and a
 
 Figure \@ref(fig:protein-first-mechanism) summarizes the conceptual mechanism proposed by peptide-world theories.
 
-<div class="figure">
-<img src="figures/09_protein_first_mechanism.png" alt="Conceptual mechanism of Protein-First and Peptide World theories. Primitive peptides may have supported early catalysis and chemical organization before nucleic-acid heredity emerged." width="100%" />
-<p class="caption">(\#fig:protein-first-mechanism)Conceptual mechanism of Protein-First and Peptide World theories. Primitive peptides may have supported early catalysis and chemical organization before nucleic-acid heredity emerged.</p>
-</div>
+\begin{figure}
+\includegraphics[width=1\linewidth]{figures/09_protein_first_mechanism} \caption{Conceptual mechanism of Protein-First and Peptide World theories. Primitive peptides may have supported early catalysis and chemical organization before nucleic-acid heredity emerged.}(\#fig:protein-first-mechanism)
+\end{figure}
 
 The figure illustrates how simple peptides may have contributed to early catalysis, energy transfer, and stabilization of reaction pathways before the development of true hereditary systems.
 
@@ -139,17 +138,29 @@ Most current research instead treats peptides as likely cooperative partners wit
 
 Table \@ref(tab:protein-performance) summarizes how protein-first theories perform across the major origin-of-life transitions introduced earlier in this book.
 
+\begin{table}
 
-Table: (\#tab:protein-performance)Comparative performance of Protein-First and Peptide World theories across major abiogenesis challenges.
-
-|Challenge              |Performance     |
-|:----------------------|:---------------|
-|Abiotic synthesis      |Strong          |
-|Catalysis              |Strong          |
-|Metabolic organization |Moderate-Strong |
-|Compartment formation  |Weak            |
-|Information storage    |Weak            |
-|Hereditary replication |Weak            |
-|Darwinian evolution    |Limited         |
+\caption{(\#tab:protein-performance)Comparative performance of Protein-First and Peptide World theories across major abiogenesis challenges.}
+\centering
+\begin{tabular}[t]{l|l}
+\hline
+Challenge & Performance\\
+\hline
+Abiotic synthesis & Strong\\
+\hline
+Catalysis & Strong\\
+\hline
+Metabolic organization & Moderate-Strong\\
+\hline
+Compartment formation & Weak\\
+\hline
+Information storage & Weak\\
+\hline
+Hereditary replication & Weak\\
+\hline
+Darwinian evolution & Limited\\
+\hline
+\end{tabular}
+\end{table}
 
 The strongest contribution of protein-first theories lies in their ability to explain primitive catalytic chemistry and early reaction networks. Their weakest area remains the emergence of stable hereditary information and long-term evolutionary memory.

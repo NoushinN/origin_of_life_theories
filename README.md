@@ -89,3 +89,5 @@ All figures, tables, and analyses are generated within the Bookdown workflow to 
 If referencing this project, please cite:
 
 Nabavi, N. *From Abiotic Chemistry to Protocells: A Comparative Review of Origin-of-Life Theories*. Bookdown project.
+
+DOI: [10.5281/zenodo.20755200](https://doi.org/10.5281/zenodo.20755200)

@@ -40,10 +40,14 @@ RNA is proposed to have supported early life-like systems through four related f
 
 Figure \@ref(fig:rna-world-mechanism-fig) summarizes the mechanistic logic of the RNA World hypothesis.
 
-<div class="figure" style="text-align: center">
-<img src="figures/04_rna_world_mechanism.png" alt="Conceptual mechanism of the RNA World hypothesis." width="100%" />
-<p class="caption">(\#fig:rna-world-mechanism-fig)Conceptual mechanism of the RNA World hypothesis.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{figures/04_rna_world_mechanism} 
+
+}
+
+\caption{Conceptual mechanism of the RNA World hypothesis.}(\#fig:rna-world-mechanism-fig)
+\end{figure}
 
 The figure illustrates why RNA remains central to origin-of-life research: it provides a plausible molecular link between chemical complexity and Darwinian evolution.
 

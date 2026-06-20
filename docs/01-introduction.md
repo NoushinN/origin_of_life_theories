@@ -12,10 +12,9 @@ Any comprehensive explanation for the origin of life must account for several ma
 
 Figure \@ref(fig:four-hurdles) summarizes four major hurdles that any successful origin-of-life theory must ultimately address.
 
-<div class="figure">
-<img src="figures/02_hurdles_abiogenesis.png" alt="Four major hurdles that any comprehensive origin-of-life theory must address." width="100%" />
-<p class="caption">(\#fig:four-hurdles)Four major hurdles that any comprehensive origin-of-life theory must address.</p>
-</div>
+\begin{figure}
+\includegraphics[width=1\linewidth]{figures/02_hurdles_abiogenesis} \caption{Four major hurdles that any comprehensive origin-of-life theory must address.}(\#fig:four-hurdles)
+\end{figure}
 
 The first hurdle involves the abiotic synthesis of biologically relevant organic molecules such as amino acids, nucleotides, lipids, and simple sugars. The second concerns the emergence of chemical organization and increasing molecular complexity, including polymer formation and catalytic interactions. The third hurdle requires mechanisms for information storage, replication, and heredity, which are necessary for preserving and transmitting molecular structure across generations. Finally, life requires systems capable of variation, selection, and adaptive evolution.
 
@@ -27,10 +26,9 @@ Rather than viewing abiogenesis as a single event, many modern researchers inter
 
 Figure \@ref(fig:pathway-timeline) illustrates a simplified conceptual progression linking major stages in the transition from non-living chemistry to early biological systems.
 
-<div class="figure">
-<img src="figures/03_origin_pathway_timeline.png" alt="Simplified pathway showing major proposed stages in the transition from geochemistry to biological evolution and examples of theories associated with each stage." width="100%" />
-<p class="caption">(\#fig:pathway-timeline)Simplified pathway showing major proposed stages in the transition from geochemistry to biological evolution and examples of theories associated with each stage.</p>
-</div>
+\begin{figure}
+\includegraphics[width=1\linewidth]{figures/03_origin_pathway_timeline} \caption{Simplified pathway showing major proposed stages in the transition from geochemistry to biological evolution and examples of theories associated with each stage.}(\#fig:pathway-timeline)
+\end{figure}
 
 In this framework, geochemical environments such as hydrothermal systems or the early atmosphere may have contributed to the synthesis of organic molecules. Wet–dry cycles, mineral surfaces, and related mechanisms may have promoted polymer formation and increasing chemical organization. RNA-based or protein-assisted systems may then have introduced primitive heredity and replication, while lipid membranes and protocell formation may have stabilized increasingly complex chemical networks.
 

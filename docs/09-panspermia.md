@@ -55,10 +55,9 @@ The proposed transfer process includes:
 
 Figure \@ref(fig:panspermia-pipeline) summarizes both the transfer sequence and the major environmental bottlenecks associated with lithopanspermia.
 
-<div class="figure">
-<img src="figures/10_panspermia_transfer_pipeline.png" alt="Integrated conceptual model of lithopanspermia showing the transfer sequence from planetary ejection to Earth arrival, along with the major environmental bottlenecks affecting microbial survival." width="100%" />
-<p class="caption">(\#fig:panspermia-pipeline)Integrated conceptual model of lithopanspermia showing the transfer sequence from planetary ejection to Earth arrival, along with the major environmental bottlenecks affecting microbial survival.</p>
-</div>
+\begin{figure}
+\includegraphics[width=1\linewidth]{figures/10_panspermia_transfer_pipeline} \caption{Integrated conceptual model of lithopanspermia showing the transfer sequence from planetary ejection to Earth arrival, along with the major environmental bottlenecks affecting microbial survival.}(\#fig:panspermia-pipeline)
+\end{figure}
 
 The upper portion of the figure illustrates the physical transfer pathway from planetary impact ejection to eventual arrival on Earth. The lower portion evaluates the relative severity of the environmental stresses encountered during this process.
 
@@ -180,18 +179,31 @@ Most modern researchers therefore view panspermia as:
 
 Table \@ref(tab:panspermia-performance) summarizes how panspermia theories perform across major origin-of-life transitions.
 
+\begin{table}
 
-Table: (\#tab:panspermia-performance)Comparative performance of Panspermia and Lithopanspermia theories across major abiogenesis challenges.
-
-|Challenge              |Performance     |
-|:----------------------|:---------------|
-|Abiotic synthesis      |Weak            |
-|Organic transfer       |Strong          |
-|Molecular survival     |Moderate-Strong |
-|Catalysis              |Weak            |
-|Compartment formation  |Weak            |
-|Information storage    |Weak            |
-|Hereditary replication |Weak            |
-|Darwinian evolution    |Limited         |
+\caption{(\#tab:panspermia-performance)Comparative performance of Panspermia and Lithopanspermia theories across major abiogenesis challenges.}
+\centering
+\begin{tabular}[t]{l|l}
+\hline
+Challenge & Performance\\
+\hline
+Abiotic synthesis & Weak\\
+\hline
+Organic transfer & Strong\\
+\hline
+Molecular survival & Moderate-Strong\\
+\hline
+Catalysis & Weak\\
+\hline
+Compartment formation & Weak\\
+\hline
+Information storage & Weak\\
+\hline
+Hereditary replication & Weak\\
+\hline
+Darwinian evolution & Limited\\
+\hline
+\end{tabular}
+\end{table}
 
 Panspermia performs strongly as a transport and survival framework, but weakly as a standalone explanation for the original emergence of life.

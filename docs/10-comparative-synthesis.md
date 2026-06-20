@@ -47,10 +47,9 @@ Throughout this book, each theory has been evaluated using several recurring cri
 
 Figure \@ref(fig:comparative-matrix) summarizes how the major theories compare across key origin-of-life problem domains.
 
-<div class="figure">
-<img src="figures/11_comparative_theory_matrix.png" alt="Comparative matrix showing how major origin-of-life theories address different stages and challenges in the transition from chemistry to early life." width="100%" />
-<p class="caption">(\#fig:comparative-matrix)Comparative matrix showing how major origin-of-life theories address different stages and challenges in the transition from chemistry to early life.</p>
-</div>
+\begin{figure}
+\includegraphics[width=1\linewidth]{figures/11_comparative_theory_matrix} \caption{Comparative matrix showing how major origin-of-life theories address different stages and challenges in the transition from chemistry to early life.}(\#fig:comparative-matrix)
+\end{figure}
 
 The figure illustrates an important conclusion emerging from modern origin-of-life research: most theories are strongest within a limited explanatory domain rather than across the entire origin sequence.
 
@@ -76,10 +75,9 @@ Figure \@ref(fig:evidence-scope) compares major theories according to two broad 
 1. Relative empirical support
 2. Relative explanatory scope
 
-<div class="figure">
-<img src="figures/12_evidence_vs_scope_matrix.png" alt="Conceptual comparison of relative empirical support and explanatory scope among major origin-of-life theories." width="90%" />
-<p class="caption">(\#fig:evidence-scope)Conceptual comparison of relative empirical support and explanatory scope among major origin-of-life theories.</p>
-</div>
+\begin{figure}
+\includegraphics[width=0.9\linewidth]{figures/12_evidence_vs_scope_matrix} \caption{Conceptual comparison of relative empirical support and explanatory scope among major origin-of-life theories.}(\#fig:evidence-scope)
+\end{figure}
 
 The figure highlights several important patterns:
 

@@ -50,10 +50,9 @@ In metabolism-first models, early chemical systems may have developed through:
 
 Figure \@ref(fig:metabolism-first-overview) provides a systems-level overview of the conceptual mechanism proposed by metabolism-first and hydrothermal vent theories.
 
-<div class="figure">
-<img src="figures/05_metabolism_first.png" alt="Conceptual mechanism of metabolism-first and hydrothermal vent theories." width="100%" />
-<p class="caption">(\#fig:metabolism-first-overview)Conceptual mechanism of metabolism-first and hydrothermal vent theories.</p>
-</div>
+\begin{figure}
+\includegraphics[width=1\linewidth]{figures/05_metabolism_first} \caption{Conceptual mechanism of metabolism-first and hydrothermal vent theories.}(\#fig:metabolism-first-overview)
+\end{figure}
 
 The figure illustrates the central idea behind metabolism-first models: naturally occurring geochemical energy gradients and mineral-catalyzed reaction networks may have generated increasingly organized chemical systems before the emergence of heredity.
 
@@ -67,10 +66,9 @@ Hydrothermal vents contain strong gradients in temperature, pH, electron availab
 
 Figure \@ref(fig:hydrothermal-vent-schematic) illustrates how hydrothermal vent systems may have generated favorable conditions for early metabolic chemistry.
 
-<div class="figure">
-<img src="figures/05_hydrothermal_vent_schematic.png" alt="Hydrothermal vent schematic illustrating geochemical gradients, catalytic surfaces, and potential pathways for prebiotic chemistry." width="100%" />
-<p class="caption">(\#fig:hydrothermal-vent-schematic)Hydrothermal vent schematic illustrating geochemical gradients, catalytic surfaces, and potential pathways for prebiotic chemistry.</p>
-</div>
+\begin{figure}
+\includegraphics[width=1\linewidth]{figures/05_hydrothermal_vent_schematic} \caption{Hydrothermal vent schematic illustrating geochemical gradients, catalytic surfaces, and potential pathways for prebiotic chemistry.}(\#fig:hydrothermal-vent-schematic)
+\end{figure}
 
 The schematic highlights several important features emphasized by hydrothermal vent theories:
 

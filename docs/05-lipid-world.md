@@ -62,10 +62,14 @@ These compartments may have provided several important advantages for early preb
 
 Figure \@ref(fig:lipid-world-overview) summarizes the conceptual mechanism proposed by lipid world and protocell theories.
 
-<div class="figure" style="text-align: center">
-<img src="figures/06_lipid_vesicle_formation.png" alt="Conceptual mechanism of lipid world and protocell theories." width="100%" />
-<p class="caption">(\#fig:lipid-world-overview)Conceptual mechanism of lipid world and protocell theories.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{figures/06_lipid_vesicle_formation} 
+
+}
+
+\caption{Conceptual mechanism of lipid world and protocell theories.}(\#fig:lipid-world-overview)
+\end{figure}
 
 The figure illustrates how simple amphiphilic molecules may have spontaneously self-assembled into membrane-bound structures capable of concentrating and stabilizing increasingly complex prebiotic chemistry.
 
