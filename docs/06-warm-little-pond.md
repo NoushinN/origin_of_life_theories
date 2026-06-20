@@ -64,14 +64,10 @@ During rehydration phases:
 
 Figure \@ref(fig:warm-little-pond-overview) summarizes the conceptual mechanism proposed by warm little pond and wet–dry cycle theories.
 
-\begin{figure}
-
-{\centering \includegraphics[width=1\linewidth]{figures/07_wet_dry_cycle_polymerization} 
-
-}
-
-\caption{Conceptual mechanism of warm little pond and wet–dry cycle theories.}(\#fig:warm-little-pond-overview)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="figures/07_wet_dry_cycle_polymerization.png" alt="Conceptual mechanism of warm little pond and wet–dry cycle theories." width="100%" />
+<p class="caption">(\#fig:warm-little-pond-overview)Conceptual mechanism of warm little pond and wet–dry cycle theories.</p>
+</div>
 
 The figure illustrates how environmental cycling may have promoted concentration, polymerization, membrane assembly, and increasingly complex prebiotic chemistry.
 

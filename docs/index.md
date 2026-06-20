@@ -21,6 +21,7 @@ This book examines the major scientific theories proposed to explain life’s em
 
 Figure \@ref(fig:theory-map) presents the conceptual framework used throughout the book by mapping each theory to the scientific domain or transition it addresses most directly.
 
-\begin{figure}
-\includegraphics[width=1\linewidth]{figures/01_theory_map} \caption{Conceptual map of major origin-of-life theories and their primary explanatory domains.}(\#fig:theory-map)
-\end{figure}
+<div class="figure">
+<img src="figures/01_theory_map.png" alt="Conceptual map of major origin-of-life theories and their primary explanatory domains." width="100%" />
+<p class="caption">(\#fig:theory-map)Conceptual map of major origin-of-life theories and their primary explanatory domains.</p>
+</div>

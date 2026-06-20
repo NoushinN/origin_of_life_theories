@@ -90,4 +90,4 @@ If referencing this project, please cite:
 
 Nabavi, N. *From Abiotic Chemistry to Protocells: A Comparative Review of Origin-of-Life Theories*. Bookdown project.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20755200.svg)](https://doi.org/10.5281/zenodo.20755200)
+[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20755200.svg)](https://doi.org/10.5281/zenodo.20755200)

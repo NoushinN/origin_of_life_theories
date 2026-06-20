@@ -45,14 +45,10 @@ These reactions may have generated amino acids, nucleobases, lipids, sugars, and
 
 Figure \@ref(fig:primordial-soup-pathway-fig) summarizes the simplified chemical progression proposed by the primordial soup model.
 
-\begin{figure}
-
-{\centering \includegraphics[width=1\linewidth]{figures/04_primordial_soup_pathway} 
-
-}
-
-\caption{Conceptual mechanism of the primordial soup model.}(\#fig:primordial-soup-pathway-fig)
-\end{figure}
+<div class="figure" style="text-align: center">
+<img src="figures/04_primordial_soup_pathway.png" alt="Conceptual mechanism of the primordial soup model." width="100%" />
+<p class="caption">(\#fig:primordial-soup-pathway-fig)Conceptual mechanism of the primordial soup model.</p>
+</div>
 
 In many versions of the theory, the accumulation of these molecules created chemically enriched environments capable of supporting additional prebiotic reactions and increasing molecular complexity.
 
